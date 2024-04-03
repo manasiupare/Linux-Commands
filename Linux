@@ -1,0 +1,43 @@
+
+1. To make new directory
+
+               mkdir file_name 
+
+  for EXAMPLE: 
+               mkdir program
+
+"Program" is file name and the new file is created named as "program".
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2. now we have to create a file within the file means folder with a folder
+   one file contain another file
+
+                   mkdir 1st_main_file name / 2nd_file_name main_file_name / 3rd_file_name main_file_name
+
+   for EXAMPLE:
+                   mkdir program / c program / c++ program / java program
+
+now "program" is the main file/folder
+     within the "program" file there are 3 files again
+     1. c
+     2. c++
+     3. java
+there are 3 folders create within "program" folder
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+3. Remove 
+               rm
+
+  for EXAMPLE:
+
+              rmdir program / java
+
+now the java folder is removed 
+now "program" file/folder only having 2 files
+              1. c
+              2. c++
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+            
